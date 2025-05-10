@@ -82,9 +82,7 @@ https://github.com/OpenRobotLab/Homie.git
 ```
 Then you can follow the README.md in each sub-repostory to install all three parts or just one of them.
 
-If you have any questions about the usage of this repository, please feel free to drop an e-mail at **elgceben@gmail.com**, we will respond to it as soon as possible. Or, you can join our discussion wechat group:
-
-![image](https://github.com/user-attachments/assets/032f7f5f-cc1c-4e15-b5da-c93afd54a1e2)
+If you have any questions about the usage of this repository, please feel free to drop an e-mail at **elgceben@gmail.com**, we will respond to it as soon as possible. Or, you can join our discussion wechat group (However, it has over 200 people now, if you would like to join, please add wechat: bqw2716138097 with info like "I want to join HOMIE discussion wechat group")
 
 
 

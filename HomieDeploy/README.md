@@ -59,6 +59,8 @@ cd g1_gym_deploy && pip install -e .
 ```
 
 ### Deployment
+**Before deployment, please run L1+A L2+R2 L2+A L2+B to close G1's initial control process, if successful, you will see the robot hang up its arm after L2+A and lose efforts after L2+B.**
+
 For TCP communications, you should determine the IP address of your PC and robot by running:
 ```
 ifconfig | grep inet
